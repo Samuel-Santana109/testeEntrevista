@@ -1,0 +1,12 @@
+Ola meu nome é Samuel e estou concorrendo para sua vaga como desenvolvedor junior front-end
+
+Primeiramente gostaria de te agradecer pela oportunidade pois foi uma experiencia para mim porque nunca tinha feito uma entrevista pratica como desenvolvedor, e foi muito bom como expereiencia para mim.
+
+So quero te avisar que o meu primeiro codigo na entrevista no tempo de 1 hora e 30 minutos saiu errado e nao consegui concluir como fiz hoje e realmente não entendi o porque que o codigo nao subiu mas deu problema nesse tambem quando eu fui atualizar e no final das contas eu tive deixar apenas o arquivo.js fora de outra pasta e deixei ele na principal para poder subir.
+
+Dei um corrigida no meu codigo dessa vez mas foi hoje fora do periodo da entrevista de 1 hora e 30 minutos, so gostaria de te avisar isso, de qualquer forma obrigado pela OPORTUNIDADE de aprender!!
+Eu vi que tenho que voltar a estudar as bases de javascript estava muito focado apenas no react.
+
+Estou sempre disposto a evoluir e aprender apenas preciso de uma oportunidade.
+
+Enfim caso queira manter contato estarei aqui!!!
